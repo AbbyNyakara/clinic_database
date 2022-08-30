@@ -19,9 +19,9 @@ This repository includes files with plain SQL:
 
 👤 **Abby**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@AbbyNyakara](https://github.com/AbbyNyakara)
+- Twitter: [@AbigaelNyakara](https://twitter.com/AbbyNyakara)
+- LinkedIn: [Abigael Nyakara](https://linkedin.com/in/AbbyNyakara)
 
 
 ## 🤝 Contributing
